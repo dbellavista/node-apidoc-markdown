@@ -2,6 +2,10 @@
 
 Generate API documentation in markdown from [apidoc](https://github.com/apidoc/apidoc) data.
 
+## WARNING
+
+**This is a porting for internal use and should not be used in production, due to the `ejs` security bug**
+
 ## Installation
 
 	npm install apidoc-to-markdown
