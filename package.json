@@ -1,6 +1,6 @@
 {
   "name": "apidoc-to-markdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate API documentation in markdown format from apidoc data.",
   "main": "index.js",
   "scripts": {

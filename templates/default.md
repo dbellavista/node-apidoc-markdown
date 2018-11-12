@@ -17,7 +17,6 @@
 <% Object.keys(data).forEach(function (group) { -%>
 # <%= group %>
 
-<% Object.keys(data[group]).forEach(function (sub) { -%>
 <% Object.keys(data[group]).forEach(function (sub, idx) { -%>
 <% if (idx == 0) { %>
 <%-: data[group][sub][0].groupDescription | undef %>
