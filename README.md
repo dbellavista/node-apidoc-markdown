@@ -4,7 +4,7 @@ Generate API documentation in markdown from [apidoc](https://github.com/apidoc/a
 
 ## Installation
 
-	npm install apidoc-markdown
+	npm install apidoc-to-markdown
 
 ## Usage
 
@@ -20,7 +20,7 @@ Generate API documentation in markdown from [apidoc](https://github.com/apidoc/a
 
 Generate from included example data
 
-	apidoc-markdown -p examples -o examples/example.md
+	apidoc-to-markdown -p examples -o examples/example.md
 
 
 [View generated example](https://github.com/martinj/node-apidoc-markdown/blob/master/examples/example.md)
